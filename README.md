@@ -14,7 +14,11 @@ ratings. The ratings microservice contains book ranking information that accompa
 Version v1 doesn’t call the ratings service.
 Version v2 calls the ratings service, and displays each rating as 1 to 5 black stars.
 Version v3 calls the ratings service, and displays each rating as 1 to 5 red stars.
-The end-to-end architecture of the application is shown below.
+
+## The end-to-end architecture of the application is shown below.
+
+![image](https://user-images.githubusercontent.com/59709429/184563759-f580044d-a2d7-494d-a82f-b6f2284fc4c3.png)
+
 
 ## Bookinfo Application without Istio
 Bookinfo Application without Istio
